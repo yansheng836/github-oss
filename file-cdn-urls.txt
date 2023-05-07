@@ -1,0 +1,10 @@
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/.gitignore
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/add_files.sh
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/file-cdn-urls.txt
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/file-size.txt
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/README.md
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/alertmanager-0.25.0.windows-amd64.zip
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/mysqld_exporter-0.14.0.windows-amd64.zip
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/prometheus-2.43.0.windows-386.zip
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/windows_exporter-0.22.0-386.exe
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/windows_exporter-0.22.0-amd64.msi

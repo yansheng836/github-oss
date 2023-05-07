@@ -1,5 +1,5 @@
 -rw-r--r-- 1 Administrator 197121 9  4月 27 22:21 ./.gitignore
--rw-r--r-- 1 Administrator 197121 146  5月  7 23:56 ./add_files.sh
+-rw-r--r-- 1 Administrator 197121 370  5月  8 00:09 ./add_files.sh
 -rw-r--r-- 1 Administrator 197121 890  5月  7 23:46 ./README.md
 -rw-r--r-- 1 Administrator 197121 29M 12月 22 23:17 ./software/alertmanager-0.25.0.windows-amd64.zip
 -rw-r--r-- 1 Administrator 197121 7.3M  3月  5  2022 ./software/mysqld_exporter-0.14.0.windows-amd64.zip
