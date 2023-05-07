@@ -1,4 +1,5 @@
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/.gitignore
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/add_files.bat
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/add_files.sh
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/file-cdn-urls.txt
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/file-size.txt
