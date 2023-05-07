@@ -8,6 +8,7 @@ find ./ -size +0b -exec ls -lh {} \; | grep -v './.git/' > file-size.txt
 find ./ -type f | grep -v './.git/' | sed 's/\.\//https:\/\/cdn.jsdelivr.net\/gh\/yansheng836\/github-oss\//g' > file-cdn-urls.txt
 
 # 提交到仓库
+date=`date "+%Y-%m-%d %H:%M:%S"`
 git add .
-git commit -m "chore: add some files"
+git commit -m "chore: add some files on $date"
 git push origin main
