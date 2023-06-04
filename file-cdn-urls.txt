@@ -1052,6 +1052,7 @@ https://cdn.jsdelivr.net/gh/yansheng836/github-oss/csdn-img/zOTI5MTYyMTcucG5n.jp
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/csdn-img/zY5YTNhX3RoLmpwZw.jpg
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/file-cdn-urls.txt
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/file-size.txt
+https://cdn.jsdelivr.net/gh/yansheng836/github-oss/image/postgres.png
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/README.md
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/alertmanager-0.25.0.windows-amd64.zip
 https://cdn.jsdelivr.net/gh/yansheng836/github-oss/software/mysqld_exporter-0.14.0.windows-amd64.zip
